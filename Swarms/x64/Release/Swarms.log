@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:             T=unsigned int
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:             T=unsigned int
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Swarm.h(22,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 225 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Swarms.vcxproj -> C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\x64\Release\Swarms.exe

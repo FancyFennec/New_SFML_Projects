@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\JonasAllemann\source\repos\NewSFMLProjects\NewSFMLProjects\Main.cpp(43,41): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\JonasAllemann\source\repos\NewSFMLProjects\NewSFMLProjects\Main.cpp(51,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NewSFMLProjects.vcxproj -> C:\Users\JonasAllemann\source\repos\NewSFMLProjects\x64\Debug\NewSFMLProjects.exe

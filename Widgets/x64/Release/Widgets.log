@@ -1,0 +1,48 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (NewSFMLProjects.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,39): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,39): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,39): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,39): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,33): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,33): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,33): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(25,33): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,36): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,36): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,36): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,36): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,29): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,29): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,29): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Button.h(26,29): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,39): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,39): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,39): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,39): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,33): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,33): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,33): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(22,33): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,36): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,36): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,36): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,36): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,29): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,29): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,29): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Widgets\Panel.h(23,29): warning C4244:         ]
+  Generating code
+  4 of 159 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Widgets.vcxproj -> C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\x64\Release\Widgets.exe

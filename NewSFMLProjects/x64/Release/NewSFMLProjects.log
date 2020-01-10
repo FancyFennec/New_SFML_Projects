@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\NewSFMLProjects\Main.cpp(28,52): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\NewSFMLProjects\Main.cpp(28,52): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\NewSFMLProjects\Main.cpp(28,52): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\NewSFMLProjects\Main.cpp(28,52): warning C4244:             T=float
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\NewSFMLProjects\Main.cpp(28,52): warning C4244:         ]
+  Generating code
+  111 of 116 functions (95.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NewSFMLProjects.vcxproj -> C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\x64\Release\NewSFMLProjects.exe

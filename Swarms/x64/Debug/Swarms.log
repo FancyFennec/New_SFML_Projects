@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (NewSFMLProjects.vcxproj, NormalBlendingTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:             T=unsigned int
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(45,64): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         with
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         [
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:             T=unsigned int
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Boid.h(46,64): warning C4244:         ]
+C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\Swarms\Swarm.h(22,21): warning C4018: '<': signed/unsigned mismatch
+  Swarms.vcxproj -> C:\Users\JonasAllemann\Desktop\Learning\CPP\NewSFMLProjects\x64\Debug\Swarms.exe
