@@ -28,7 +28,7 @@ int main() {
 	startText.setPosition(sf::Vector2f(200.0f, 10));
 
 	Swarm swarm;
-	swarm.addBoids(200);
+	swarm.addBoids(70);
 	
 	bool isPaused = false;
 
