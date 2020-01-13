@@ -9,7 +9,7 @@ public:
 
 	float radius = 5000.0f;
 
-	float separation = 10.0f;
+	float separation = 8.0f;
 	float alignment = 0.04f;
 	float cohesion = 0.1f;
 
